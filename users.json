@@ -1,5 +1,5 @@
 {
-  "ABC-123-XYZ": { "active": false },
+  "ABC-123-XYZ": { "active": true },
   "XYZ-456-DEF": { "active": false },
   "AYV-001-TEST": { "active": true }
 }
