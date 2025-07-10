@@ -1,6 +1,7 @@
 {
   "ABC-123-XYZ": { "active": true },
   "TAN-123-XYZ": { "active": true },
+  "TAN-456-OUT": { "active": true },
   "TAN-456-DEF": { "active": true },
   "SEM-753-DEF": { "active": true },
   "AYV-001-TEST": { "active": false }
