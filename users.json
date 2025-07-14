@@ -4,5 +4,6 @@
   "TAN-456-OUT": { "active": true },
   "TAN-456-DEF": { "active": true },
   "SEM-753-DEF": { "active": true },
+  "SEM-753-OUT": { "active": true },
   "AYV-001-TEST": { "active": false }
 }
