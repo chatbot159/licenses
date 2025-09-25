@@ -7,7 +7,7 @@
   "SEM-753-OUT": { "active": true },
   "HMD-123-XYZ": { "active": true },
   "HMD-123-OUT": { "active": true },
-  "MLH-123-DEF": { "active": false },
-  "MLH-123-OUT": { "active": false },
+  "MLH-123-DEF": { "active": true },
+  "MLH-123-OUT": { "active": true },
   "AYV-001-TEST": { "active": false }
 }
