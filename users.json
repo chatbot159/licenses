@@ -9,5 +9,7 @@
   "HMD-123-OUT": { "active": true },
   "MLH-123-DEF": { "active": true },
   "MLH-123-OUT": { "active": true },
+  "OSM-123-DEF": { "active": true },
+  "OSM-123-OUT": { "active": true },
   "AYV-001-TEST": { "active": false }
 }
