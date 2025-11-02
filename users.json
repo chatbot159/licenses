@@ -13,5 +13,7 @@
   "OSM-123-OUT": { "active": true },
   "ADN-123-DEF": { "active": true },
   "ADN-123-OUT": { "active": true },
+  "HMD-123-DEF": { "active": true },
+  "HMD-123-OUT": { "active": true },
   "AYV-001-TEST": { "active": false }
 }
